@@ -1,5 +1,5 @@
 # woordenboek
-Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente Almelo
+Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente Almelo.
 
 <h1>registraties </h1>
 <dl>
@@ -146,7 +146,7 @@ Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegeven
 
 <h1>nationale organisaties</h1>
  
-<center><h2>Referenties</h3></center>
+<center><h2>referenties</h3></center>
 <ul>
 <li>Autoriteit Persoonsgegevens</li>
 <li>Stelselpedia gemeente Amsterdam</li>
