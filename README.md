@@ -47,7 +47,7 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 
 <h1>sectorale registraties</h1>
 <dl>
-<dt>Samenhangende Objecten Registratie (SOR)</dl>
+<dt>Samenhangende Objecten Registratie (SOR)</dt>
 <dd>Dit is een uniforme registratie waaraan wordt gewerkt vanuit het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) en de Vereniging Nederlandse gemeenten (VNG). De Samenhangende Objecten Registratie (SOR) wordt een landelijk uniforme registratie met daarin basisgegevens over objecten in de fysieke werkelijkheid. Daaronder verstaan we objecten die in het terrein zichtbaar zijn, zoals gebouwen, wegen, water, spoorlijnen en bomen, terreindelen, aangevuld met enkele (registratieve) objecten als woonplaatsen, gemeentegrenzen en openbare ruimten. In de objectenregistratie gaan in ieder geval de objecten van de BAG en de BGT. Daarnaast is het de bedoeling dat ook het gedeelte van de WOZ-administratie waarin objectgegevens zijn opgenomen en een aantal basisgegevens uit aanpalende registraties in de objectenregistratie worden opgenomen. Met de SOR wordt beoogd om meer samenhang aan te brengen in het informatiebeheer tussen de verschillende objecttypen en de eigenschappen die daarover worden bijgehouden.</dd>
 </dl>
 
@@ -78,8 +78,12 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 </dl>
 
 <h1>documentatie</h1>
+<dl>
+<dt>Mandaat</dt>
+<dd>Opdracht of bevoegdheid om namens en onder verantwoordelijkheid van een ander zaken af te handelen. Gekozen vertegenwoordigers hebben ook een mandaat, namelijk van de kiezer.</dd>
+</dl>
 
-<h1>Methodes</h1>
+<h1>methodes</h1>
 <dl>
 <dt>Common Ground</dt>
 <dd>Stappen in de richting van een open, transparante overheid waarbinnen met inachtneming van de privacyregels gegevens sneller en veiliger kunnen worden uitgewisseld, intern zowel als extern.  Overheden hebben landelijk een beweging in gang gezet voor de stapsgewijze ontwikkeling van nieuwe, moderne, gezamenlijke informatievoorziening voor het uitwisselen van gegevens. De filosofie hierachter heet Common Ground. Het is geen van bovenaf opgelegde systeemwijziging, maar een beweging die samen met gemeenten werkt aan een stapsgewijze modernisering van de ICT-infrastructuur. En elke gemeente de kans biedt om in eigen tempo en op eigen voorwaarden de overstap te maken.</dd>
@@ -144,7 +148,11 @@ Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegeven
 <dd>Een proceseigenaar heeft een globaal zicht op het geheel van een proces. Hij legt de grote lijnen vast, bepaalt de doelstellingen en stuurt het proces. Het hoeft niet dezelfde te zijn als de inhoudelijk verantwoordelijke. Vaak is de proceseigenaar een teammanager, daarom is de proceseigenaar vaak wel geheel of gedeeltelijk ook inhoudelijk verantwoordelijk.</dd>
 </dl>
 
-<h1>nationale organisaties</h1>
+<h1>organisaties</h1>
+<dl>
+<dt>Twentse Kracht</dt>
+<dd>Twentse Kracht is interne arbeidsmarkt voor alle ambtenaren van inmiddels 22 aangesloten overheidsinstanties. Alle veertien Twentse gemeenten, Waterschap Vechtstromen, Gemeentelijk Belastingkantoor Twente, Veiligheidsregio Twente, SWB Midden Twente, Omgevingsdienst Twente, Stadsbank Oost Nederland, Provincie Overijssel en SamenTwente werken samen op het gebied van professionele en persoonlijke ontwikkeling van de Twentse ambtenaren en om hen meer in beweging te krijgen op het gebied van arbeidsmobiliteit.</dd>
+</dl>
  
 <center><h2>referenties</h3></center>
 <ul>
