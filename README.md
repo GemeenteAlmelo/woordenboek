@@ -100,7 +100,7 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dt>Business intelligence</dt>
 <dd>Het verzamelen van gegevens en het omzetten naar informatie. De informatie wordt geanalyseerd/gepubliceerd, teneinde beslissingsondersteunende informatie (intelligence) te verkrijgen.</dd>
 <dt>Gegevensmanagement (data governance)</dt>
-<dd>Betreft het integraal en beheerst verwerken van gegevens in een organisatie zowel op strategisch tactisch als operationeel niveau met als doel de gewenste kwaliteit en beschikbaarheid te realiseren.</dd>
+<dd>Betreft het integraal en beheerst verwerken van gegevens in een organisatie zowel op strategisch tactisch als operationeel niveau met als doel de gewenste kwaliteit en beschikbaarheid te realiseren. Gegevensmanagement is het geheel van processen en producten dat betrekking heeft op de omgang van de gemeente met gegevens en is het fundament van de informatievoorziening (overzicht en control). Gegevensmanagement moet ervoor zorgen dat gegevens met de juiste betrouwbaarheid, op het juiste moment op de juiste plaats beschikbaar zijn.</dd>
 <dt>Gegevensmagazijn (Data warehouse)</dt>
 <dt>Gegevensplatform (Data platform)</dt>
 <dt>Dataset</dt>
