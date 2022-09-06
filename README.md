@@ -73,8 +73,14 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dl>
 <dt>Bijzondere persoonsgegevens</dt>
 <dd>Persoonsgegevens die door hun aard bijzonder gevoelig zijn, Onder deze gegevens vallen ook genetische gegevens en biometrische gegevens als deze herleidbaar zijn tot een persoon. We noemen deze gegevens bijzondere persoonsgegevens (AVG: bijzondere categorieën van persoonsgegevens). Het is verboden om bijzondere persoonsgegevens te verwerken, tenzij er een wettelijke uitzondering is.</dd>
+  <dt>Gegevensleveringsovereenkomst</dt>
+  <dd></dd>
+<dt>Objectgegevens</dt>
+<dd></dd>
 <dt>Persoonsgegevens</dt>
 <dd>Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent dat informatie ofwel direct over iemand gaat, ofwel naar deze persoon te herleiden is. Gegevens over organisaties zijn geen persoonsgegevens volgens de AVG. Op gegevens van overleden personen is de AVG niet van toepassing.</dd>
+<dt>Verwerkersoverenkomst>
+  <dd></dd>
 </dl>
 
 <h1>documentatie</h1>
