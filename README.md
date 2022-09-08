@@ -60,7 +60,7 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dt>Object</dt>
 <dd>Een tastbaar iets in de werkelijkheid, zoals daarnaar gekeken wordt vanuit een bepaald domein.</dd>
 <dt>Objectgegevens</dt>
-</dd>Objectgegevens zijn de objectief waarneembare neerslag of registratie van feiten op een bepaald medium, zodanig dat deze gegevens uitgewisseld en voor langere tijd bewaard kunnen worden. Dat kan op papier, in digitale vorm, et cetera. Met deze gegevens wordt een model (een selectief deel dus) van de werkelijkheid vastgelegd in de tijd.</dd>
+<dd>Objectgegevens zijn de objectief waarneembare neerslag of registratie van feiten op een bepaald medium, zodanig dat deze gegevens uitgewisseld en voor langere tijd bewaard kunnen worden. Dat kan op papier, in digitale vorm, et cetera. Met deze gegevens wordt een model (een selectief deel dus) van de werkelijkheid vastgelegd in de tijd.</dd>
 </dl>
 
 <h1>systemen</h1>
@@ -79,8 +79,6 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dd>Persoonsgegevens die door hun aard bijzonder gevoelig zijn, Onder deze gegevens vallen ook genetische gegevens en biometrische gegevens als deze herleidbaar zijn tot een persoon. We noemen deze gegevens bijzondere persoonsgegevens (AVG: bijzondere categorieën van persoonsgegevens). Het is verboden om bijzondere persoonsgegevens te verwerken, tenzij er een wettelijke uitzondering is.</dd>
 <dt>Gegevensleveringsovereenkomst</dt>
 <dd>Om grip te houden op de gegevenshuishouding is het belangrijk om over levering en gebruik duidelijke afspraken te maken tussen (gegevens)leverancier en afnemer. De vastlegging van deze afspraken kan in de vorm van een Gegevens Levering Overeenkomst (GLO). De GLO is bedoeld voor reguliere leveringen, en niet voor eenmalige bevragingen of informatieaanvragen. </dd>
-<dt>Objectgegevens</dt>
-<dd></dd>
 <dt>Persoonsgegevens</dt>
 <dd>Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent dat informatie ofwel direct over iemand gaat, ofwel naar deze persoon te herleiden is. Gegevens over organisaties zijn geen persoonsgegevens volgens de AVG. Op gegevens van overleden personen is de AVG niet van toepassing.</dd>
 <dt>Verwerkersoverenkomst>
