@@ -57,6 +57,10 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dd>Datasets die te groot en te weinig gestructureerd zijn om met reguliere databasemanagementsystemen te worden onderhouden. De gegevens hebben een direct of indirect verband met privégegevens van personen (Gartner).</dd>
 <dt>Geo-informatie</dt>
 <dd>Informatie met een locatie. Het gaat hierbij om een verwijzing naar een plek op onze aardbol met een x en een y component. ‘Geo’ is de afkorting voor geografisch, dus ruimtelijk. Dit kan een fysiek object zijn, zoals een huis, kantoor, bos of rivier. Daarnaast is een administratieve eenheid, zoals bijvoorbeeld een gemeente of een postcodegebied ook geo. De term Geo kan ook gaan om vluchtige informatie zoals sensormetingen op een bepaalde plek.</dd>
+<dt>Object</dt>
+<dd>Een tastbaar iets in de werkelijkheid, zoals daarnaar gekeken wordt vanuit een bepaald domein.</dd>
+<dt>Objectgegevens</dt>
+</dd>Objectgegevens zijn de objectief waarneembare neerslag of registratie van feiten op een bepaald medium, zodanig dat deze gegevens uitgewisseld en voor langere tijd bewaard kunnen worden. Dat kan op papier, in digitale vorm, et cetera. Met deze gegevens wordt een model (een selectief deel dus) van de werkelijkheid vastgelegd in de tijd.</dd>
 </dl>
 
 <h1>systemen</h1>
@@ -73,14 +77,14 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dl>
 <dt>Bijzondere persoonsgegevens</dt>
 <dd>Persoonsgegevens die door hun aard bijzonder gevoelig zijn, Onder deze gegevens vallen ook genetische gegevens en biometrische gegevens als deze herleidbaar zijn tot een persoon. We noemen deze gegevens bijzondere persoonsgegevens (AVG: bijzondere categorieën van persoonsgegevens). Het is verboden om bijzondere persoonsgegevens te verwerken, tenzij er een wettelijke uitzondering is.</dd>
-  <dt>Gegevensleveringsovereenkomst</dt>
-  <dd></dd>
+<dt>Gegevensleveringsovereenkomst</dt>
+<dd>Om grip te houden op de gegevenshuishouding is het belangrijk om over levering en gebruik duidelijke afspraken te maken tussen (gegevens)leverancier en afnemer. De vastlegging van deze afspraken kan in de vorm van een Gegevens Levering Overeenkomst (GLO). De GLO is bedoeld voor reguliere leveringen, en niet voor eenmalige bevragingen of informatieaanvragen. </dd>
 <dt>Objectgegevens</dt>
 <dd></dd>
 <dt>Persoonsgegevens</dt>
 <dd>Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent dat informatie ofwel direct over iemand gaat, ofwel naar deze persoon te herleiden is. Gegevens over organisaties zijn geen persoonsgegevens volgens de AVG. Op gegevens van overleden personen is de AVG niet van toepassing.</dd>
 <dt>Verwerkersoverenkomst>
-  <dd></dd>
+<dd>Met een verwerkersovereenkomst sluit de verwerkingsverantwoordelijke uit dat de andere partij de persoonsgegevens voor eigen doelen mag verwerken. Een gemeente mag alleen verwerkers inschakelen die voldoende garanties bieden dat zij aan de wettelijke vereisten voldoen.</dd>
 </dl>
 
 <h1>documentatie</h1>
@@ -163,6 +167,7 @@ Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegeven
 <center><h2>referenties</h3></center>
 <ul>
 <li>Autoriteit Persoonsgegevens</li>
+<li>Nederlandse Overheid Referentie Architectuur (NORA)</li>
 <li>Stelselpedia gemeente Amsterdam</li>
 <li>Vereniging van Nederlandse Gemeenten (VNG)</li>
 <li>SAP software oplossingen</li>
