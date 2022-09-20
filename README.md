@@ -96,7 +96,7 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dt>Common Ground</dt>
 <dd>Stappen in de richting van een open, transparante overheid waarbinnen met inachtneming van de privacyregels gegevens sneller en veiliger kunnen worden uitgewisseld, intern zowel als extern.  Overheden hebben landelijk een beweging in gang gezet voor de stapsgewijze ontwikkeling van nieuwe, moderne, gezamenlijke informatievoorziening voor het uitwisselen van gegevens. De filosofie hierachter heet Common Ground. Het is geen van bovenaf opgelegde systeemwijziging, maar een beweging die samen met gemeenten werkt aan een stapsgewijze modernisering van de ICT-infrastructuur. En elke gemeente de kans biedt om in eigen tempo en op eigen voorwaarden de overstap te maken.</dd>
 <dt>Datagedreven werken</dt>
-<dd>Data gedreven werken is werken op basis van feiten uit de samenleving, die verzameld worden in de vorm van data, geanalyseerd worden naar informatie, samen met domeinkennis op de juist manier geïnterpreteerd worden naar bruikbare inzichten, en om op basis van deze inzichten een zo geïnformeerd mogelijk besluit te nemen wat een hogere waarde geeft voor de samenleving.</dd>
+<dd>Datagedreven werken is werken op basis van feiten uit de samenleving, die verzameld worden in de vorm van data, geanalyseerd worden naar informatie, samen met domeinkennis op de juist manier geïnterpreteerd worden naar bruikbare inzichten, en om op basis van deze inzichten een zo geïnformeerd mogelijk besluit te nemen wat een hogere waarde geeft voor de samenleving.</dd>
 <dt>Datagedreven sturing</dt>
 <dd>Sturingshandelen gebaseerd op het systematisch verzamelen, beheren, analyseren en interpreteren van data.</dd>
 <dt>Informatiedienst</dt>
@@ -120,7 +120,8 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dt>Kunstmatige intelligentie</dt>
 <dd>Een overkoepelende term voor systemen of machines die de menselijke intelligentie nabootsen. Wordt ook Artificial Intelligence (AI) genoemd (oracle.com).
 <dt>Machine learning</dt>
-<dd>Een vorm van kunstmatige intelligentie (AI) die gericht is op het bouwen van systemen die van de verwerkte data kunnen leren of data gebruiken om beter te presteren.</dd>
+<dd>Een vorm van kunstmatige intelligentie (AI) die gericht is op het bouwen van systemen die van de verwerkte data kunnen leren of 
+bruiken om beter te presteren.</dd>
 <dt>Informatieproduct</dt>
 <dd>Een digitaal product dat informatie aanbiedt aan een gebruiker. Dit kan bestaan uit 1 of meer informatie-elementen die zich bevinden in de waardeketen van de organisatie, in de vorm van een rapportage of dasboard in Cognos, een bestand (xls, pdf) of een kaart die online wordt aangeboden.</dd>
 <dt>Monitoring</dt>
