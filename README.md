@@ -81,7 +81,7 @@ Een woordenboek met veelgebruikte termen binnen de organisatie van de gemeente A
 <dd>Om grip te houden op de gegevenshuishouding is het belangrijk om over levering en gebruik duidelijke afspraken te maken tussen (gegevens)leverancier en afnemer. De vastlegging van deze afspraken kan in de vorm van een Gegevens Levering Overeenkomst (GLO). De GLO is bedoeld voor reguliere leveringen, en niet voor eenmalige bevragingen of informatieaanvragen. </dd>
 <dt>Persoonsgegevens</dt>
 <dd>Alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon. Dit betekent dat informatie ofwel direct over iemand gaat, ofwel naar deze persoon te herleiden is. Gegevens over organisaties zijn geen persoonsgegevens volgens de AVG. Op gegevens van overleden personen is de AVG niet van toepassing.</dd>
-<dt>Verwerkersoverenkomst>
+<dt>Verwerkersoverenkomst</dt>
 <dd>Met een verwerkersovereenkomst sluit de verwerkingsverantwoordelijke uit dat de andere partij de persoonsgegevens voor eigen doelen mag verwerken. Een gemeente mag alleen verwerkers inschakelen die voldoende garanties bieden dat zij aan de wettelijke vereisten voldoen.</dd>
 </dl>
 
