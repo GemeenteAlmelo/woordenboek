@@ -138,14 +138,84 @@ bruiken om beter te presteren.</dd>
 
 <h1>rollen</h1>
 <dl>
+<dt>BI-specialist</dt>
+<dd>Adviseert over vraagstukken rond businessintelligence.  
+
+De BI-adviseur is verantwoordelijk om de kennis voor wat betreft BI-vraagstukken in te brengen. De BI-adviseur kent de behoefte aan informatieproducten, zoals dashboards en rapportages. De onderdelen vanuit datagovernance hebben invloed op de mate van betrouwbaarheid van de informatieproducten. Een voorbeeld hiervan zijn de keuzes die worden gemaakt ten behoeve van datakwaliteit.  
+
+Hoofdtaken 
+
+In beeld brengen databehoefte in de organisatie en toezien op ontwikkeling van informatieproducten conform deze behoefte. 
+
+Formuleren beleid ten aanzien van informatieproducten zoals dashboards en rapportages.  
+
+Ondersteunen BI-ontwikkelaars bij het ontwikkelen van informatieproducten conform de wensen van de organisatie en het beleid van datamanagement.</dd>
+<dt>BI-ontwikkelaar</dt>
+<dd>De BI-adviseur is verantwoordelijk voor het ontwikkelen van informatieproducten, zoals dashboard en rapportages.  
+
+De BI-ontwikkelaar werkt samen met de BI-adviseur voor het in beeld hebben van de informatiebehoefte van de klant, en zorgt dat de te ontwikkelen producten aansluiten bij deze informatiebehoefte. Daarnaast werkt de BI-adviseur samen met de datasteward om gevoel te hebben bij de datakwaliteit van de te gebruiken data, en te toetsen of deze voldoende kwaliteit heeft om bruikbaar te zijn.  
+
+Hoofdtaken 
+
+Ontwikkeling van informatieproducten zoals dashboards en rapportages conform de informatiebehoefte van de afnemer. 
+
+Adviseren in dashboard ontwikkel mogelijkheden, gebruik van best passende tooling.  
+
+Draagt dashboard(s) over aan de beheerder en ondersteunt in onderhoud.  
+
+Heeft kennis van processen en beleidsdomeinen om aan te kunnen sluiten op de informatiebehoefte van de klant.</dd>
 <dt>Data verantwoordelijke</dt>
 <dd>Een rol die eindverantwoordelijk is voor data en hun kwaliteit. Een data-eigenaar is typisch een manager. Binnen de gemeente Almelo is de teammanager van de betreffende afdelingen de data-eigenaar van diverse data (voor een deel zullen dit basisregistraties zijn, maar afdelingen kunnen ook verantwoordelijk zijn voor bepaalde kernregistraties). Per registratie wordt vastgelegd welke afdeling dit betreft.  De basisregistratie persoonsgegevens valt bijvoorbeeld onder de verantwoordelijkheid van de Teammanager Burgerzaken.</dd>
+<dt>Data steward</dt>
+<dd>Uitvoerend aanspreekbaar en verantwoordelijk voor de data binnen een of meer applicaties.  
+
+De datasteward is de centrale spil tussen zijn afdeling en de databronnen die hij onder zijn hoede heeft. De datasteward is operationeel verantwoordelijk voor de inhoud van de databronnen, en heeft een eigen portefeuille van databronnen waar hij verantwoordelijk voor is. Het betreft hier met name de datakwaliteit van de gegevens, en zaken rond privacy en vertrouwelijkheid. 
+
+Hoofdtaken 
+
+Start en beheert processen rondom verbeteren van gegevenskwaliteit. Bewaakt de gegevenskwaliteit op basis van de afgesproken datakwaliteitscriteria en rapporteert hierover aan de gegevenseigenaar en de regisseur datamanagement. De datasteward is de aanjager voor verbetering van datakwaliteit voor één of meer databronnen.  
+
+Heeft kennis van de mate van vertrouwelijkheid van de data waar hij verantwoordelijk voor is, en signaleert waar nodig aan de Gegevenseigenaar, de FG en de regisseur datamanagement.   
+
+Helpt mee om databewustzijn te creëren in de organisatie wat betreft datakwaliteit en vertrouwelijke omgang met data.</dd>
 <dt>Opdrachtgever</dt>
 <dd>De opdrachtgever is het voor de basisregistratie verantwoordelijke ministerie, dat opdrachtgever is voor de ‘verstrekker’ (de beheerder van de landelijke voorziening). Bijvoorbeeld: het ministerie van BZK is opdrachtgever voor de Basisregistratie Personen.</dd>
 <dt>Toezichthouder</dt>
 <dd>De toezichthouder is de partij die er verantwoordelijk voor is dat wordt toegezien of de basisregistratie in overeenstemming met eisen, afspraken en wetgeving opereert. Een basisregistratie heeft één of meer verantwoordelijken voor toezicht. Over het algemeen is de opdrachtgever verantwoordelijk voor het toezicht op de naleving van de wettelijke bepalingen die gelden voor die basisregistratie.</dd>
 <dt>Bronhouder</dt>
 <dd>Een bronhouder is verantwoordelijk voor het inwinnen en bijhouden van de authentieke en sommige niet-authentieke gegevens (waar nodig in de wettelijke uitvoering van een taak) in een basisregistratie en voor het borgen van de kwaliteit van die gegevens (onder meer naar aanleiding van ontvangen terugmeldingen). Een basisregistratie heeft één of meer bronhouders. Binnen de gemeente Almelo zijn de teammanagers van de betreffende afdeling verantwoordelijk als bronhouder van diverse basisregistraties. Het streven is om voor elke basisregistratie 1 bronhouder/verantwoordelijke te benoemen. Mocht daar een uitzondering in gemaakt worden, wordt dit expliciet gedocumenteerd.</dd>
+<dt>Data engineer</dt>
+<dd>Realiseert en bewaakt datawarehousemodules 
+
+De datawarehousespecialist is verantwoordelijk voor technische realisatie binnen het datawarehouse en het adviseren hierover. Zij realiseert het datamodel binnen het datawarehouse op basis van het GGM, ontwikkelt datamarts gericht op publicatie van data en werkt hierin samen met de gegevensarchitect. Daarnaast ontwikkelt zij ETL-software voor het laden en transformeren van binnenkomende en uitgaande data. Ook bewaakt de datawarehousespecialist de processen binnen het datawarehouse en voert reparatieacties uit waar nodig.    
+
+Hoofdtaken 
+
+Realiseren en beheren datawarehousemodules op basis van ETL en het GGM 
+
+Adviseren over rapportages en andere toepassingen op basis van het datawarehouse  
+
+  Bewaken en beheren van datawarehouseprocessen.</dd>
+<dt>CISO Chief Information Security OFficer<dt>
+<dd>Houdt overzicht over de gemeentebrede beveiliging 
+
+Met de invoering van de BIO en het verbindend verklaren van dit normenkader voor de hele overheid, is de aanstelling van een CISO verplicht. Het is een belangrijke voorwaarde om de implementatie en uitvoering van de informatiebeveiliging binnen de organisatie te initiëren en te beheersen. De CISO is een onafhankelijke positie heeft tegenover zowel het lijnmanagement als het bestuur van de gemeente, en monitort en organiseert alles wat nodig is voor een degelijk informatiebeveiligingsbeleid (conform de BIO).   
+
+Hoofdtaken 
+
+Definieert en organiseert het informatiebeveiligingsbeleid. 
+
+Zorgt voor afstemming tussen informatiebeveiliging met andere beveiligingsdomeinen, waaronder privacybescherming, fysieke beveiliging en continuïteitsmanagement.  
+
+Initieert en coördineert organisatiebrede informatiebeveiligingsactiviteiten en -projecten, en draagt zorg voor organisatiebrede richtlijnen, standaarden, methoden en technieken voor informatiebeveiliging 
+
+Monitort en borgt informatiebeveiligingsbewustzijn binnen de organisatie en binnen de architectuur 
+
+Monitort relevante risico’s voor de gemeente 
+
+Monitort en borgt assessments, test, reviews en audits t.b.v. informatiebeveiliging  
+
+Informeert bestuur en management over de status van informatiebeveiliging en incidenten en presenteert verbetervoorstellen. </dd>
 <dt>Verstrekker</dt>
 <dd>De verstrekker is verantwoordelijk voor het verstrekken van de gegevens aan afnemers. De verstrekker is ook verantwoordelijk voor het faciliteren van het gebruik (zoals het leveren van kennis en ondersteuning aan afnemers voor het aansluiten op de landelijke voorziening). Een basisregistratie heeft één verstrekker. 
 Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegevens. Gemeente Almelo is de bronhouder, de afdeling BPR is de vestrekker en is verantwoordelijk voor het faciliteren van het gebruik. De verstrekkende rol wordt vervuld door de applicatiebeheerder (onder eindverantwoordelijkheid van de teammanager).</dd>
@@ -153,10 +223,83 @@ Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegeven
 <dd>Een afnemer (ook wel ‘gebruiker’) is een overheidsorganisatie of private partij die gegevens afneemt van een basisregistratie voor gebruik in de eigen processen. Voor bestuursorganen met een publiekrechtelijke taak (zoals gemeenten, provincies, waterschappen en zelfstandige bestuursorganen) is het afnemen en gebruiken van relevante authentieke gegevens verplicht. Een organisatie kan zowel verstrekker, bronhouder als afnemer zijn. Een voorbeeld hiervan is de RDW die het kentekenregister bijhoudt (bronhouder), verstrekt aan andere afnemers en tegelijkertijd afnemer is van BRP-gegevens. Afnemers zijn in het geval van de gemeente Almelo zijn ook de afnemende applicaties. De applicatiebeheerder heeft in dit geval opnieuw de verantwoordelijkheid over de data en de kwaliteit en verwerking in de applicatie hiervan.
 <dt>Beheerder</dt>
 <dd>De beheerder zorgt ervoor dat het proces beschreven is. Zorgt voor actualisatie, in opdracht van de proceseigenaar.</dd>
+<dt>De gegevensarchitectuur</dt>
+<dd>Heeft overzicht over de gebruikte gegevens binnen de gemeente en beheert het GGM.  
+
+De gegevensarchitect heeft overzicht over de gegevens die binnen de gemeente gebruikt worden, en het achterliggende informatiemodel. Binnen de gemeente hanteert men het GGM (Gemeentelijk Gegevensmodel). De gegevensarchitect stelt samen met de datagovernance-board de kaders en richtlijnen op waar de organisatie zich aan conformeert. De gegevensarchitect heeft daarnaast ook een rol in het actief uitdragen en communiceren van deze kaders en richtlijnen. De gegevensarchitect adviseert bij de toepassing van het GGM, zoals voor het datawarehouse.
+  
+Hoofdtaken 
+
+Ontwikkelen en onderhouden GGM (doorontwikkeling en onderhoud horen beide tot de taken rondom het GGM) 
+
+Adviseren afdelingen en projecten over architectuurprincipes, gegevensmodellen, data- en informatiestandaarden en datadefinities, waaronder advies richting datawarehouse. 
+
+Monitoren en implementeren landelijke en internationale gegevensstandaarden.  
+
+Ontwikkelen en adviseren in het ontwerp voor de (her)inrichting van Open Data. </dd>
+<dt>De gegevenseigenaar</dt>
+<dd>De gegevenseigenaar is verantwoordelijk voor de gegevens van een registratie, en heeft de doorzettingsmacht om wijzigingen te laten aanbrengen.  
+
+In het geval van een basisregistratie wordt gesproken over een registratiehouder. Indien persoonsgegevens in de registratie voorkomen, is de eigenaar ‘verantwoordelijke’ zoals omschreven in artikel 1d van de Wet Bescherming Persoonsgegevens (WBP). Sommige (kern)registraties zijn net zo belangrijk voor de organisatie als een basisregistratie dat zij op hetzelfde niveau eisen stellen aan de registratie, net als de eisen die zij stellen aan de gegevenseigenaar bij de registratie. Bij kernregistraties kan gedacht worden aan registraties als: het vergunningensysteem, de administraties voor de uitvoering van de Jeugdwet en de Wmo, de uitkeringenadministratie, de administratie voor de objecten uit het ruimtelijk domein, het financiële systeem en het HR-systeem. 
+
+Hoofdtaken 
+
+Eindverantwoordelijk voor de gegevens in de een databron, zoals een applicatie 
+
+Faciliteert gebruik en levering gegevens, zowel binnen als buiten de gemeente. Waarbij de voorwaarden door de datasteward in een GLO worden vastgelegd, en in het geval van externe leveranciers via contracten en inkoopvoorwaarden.  
+
+Verantwoordelijk voor ter beschikking stelling van informatie voor actieve openbaarmaking. 
+
+Verantwoordelijk voor regulier werk, onderhoud en wijzigingen van gegevens conform wet- en regelgeving, contractuele verplichtingen en gemeentelijk beleid.  
+
+Verantwoordelijk voor de borging van wijzigingen van de datastructuur van applicaties conform de GLO. Dit in uitvoering door de datasteward. 
+
+Verantwoordelijk voor de datakwaliteit binnen de bron, zowel de datakwaliteitscriteria als wel de verbetering van de datakwaliteit, en ook het inzicht van de gegevens in de bron en ook de kwaliteit daarvan. Dit in uitvoering door de datasteward. 
+
+Verantwoordelijk voor waarborging van privacy en bescherming van persoonsgegevens.  wordt gewaarborgd. Waarbij gegevens worden beschermd tegen verlies, vernietiging, vervalsing, onbevoegde toegang en onbevoegde vrijgave. Verantwoordelijk voor het melden van datalekken en de afhandeling ervan. 
+
+Verantwoordelijk voor bewaartermijn van gegevens, en het gecontroleerd afvoeren van gegevens waar dat nodig is.</dd>
+<dt>Gegevensmakelaar</dt>
+<dd>Verantwoordelijk voor de uitwisseling van data met interne en externe partijen 
+
+De gegevensmakelaar heeft gemeentebreed overzicht over de gegevensleveringen, zowel inkomende leveringen als uitgaande leveringen. Een gegevensmakelaar adviseert over gegevensleveringen en stemt daarbij af met de datastewards die operationeel verantwoordelijk zijn voor de gegevensleveringen.  
+
+Hoofdtaken 
+
+Vaststellen beleid over gegevensleveringen en GLO’s  
+
+Bewaken afspraken tussen afnemende en leverende partijen en afstemming met datastewards hierover. 
+
+Planning-, implementatie- en controleprocessen van datalevering van / naar OO’s en/of externe partijen. t.b.v. integraal inzicht processen in ketens effectiever en efficiënter verlopen met data.</dd>  
 <dt>Proceseigenaar</dt>
 <dd>Een proceseigenaar heeft een globaal zicht op het geheel van een proces. Hij legt de grote lijnen vast, bepaalt de doelstellingen en stuurt het proces. Het hoeft niet dezelfde te zijn als de inhoudelijk verantwoordelijke. Vaak is de proceseigenaar een teammanager, daarom is de proceseigenaar vaak wel geheel of gedeeltelijk ook inhoudelijk verantwoordelijk.</dd>
 </dl>
+<dt>Privacy Officer</dt>
+<dl>Draagt bij aan de privacy-compliance van de gemeente  
 
+De PO heeft een uitvoerende rol en is verantwoordelijk voor het ontwikkelen en bewaken van het privacybeleid van de gemeentelijke organisatie en het ondersteunen van de uitvoering. Dit doet zij in nauwe samenwerking met de FG en de CISO. De privacy-officer adviseert over welke organisatorische stappen kan nemen om te kunnen voldoen aan de AVG-regelgeving. De privacy-officer ontwikkelt ook middelen waarbij de medewerkers binnen de organisatie zelf ook kunnen toetsen of zij op projectniveau voldoen aan de privacywetgeving.  
+
+Hoofdtaken 
+
+Adviseren over het gebruik van persoonsgegevens, zoals in het geval van datalekken, of het uitvoeren van een DPIA. Een DPIA is verplicht voor verwerkingen met een hoog privacyrisico.5 De verwerkingsverantwoordelijke moet bij de uitvoering van een DPIA advies vragen van de FG. 
+
+Ontwikkelen en uitvoering geven aan privacybeleid. 
+
+Adviseren over privacybeleid 
+
+Ontwikkelen van middelen voor het toetsen van privacy-compliance. </dl>
+<dt>FG Functionaris gegevensbescherming</dt>
+<dl>Houdt toezicht op de verwerking van persoonsgegevens 
+
+De Algemene Verordening Gegevensbescherming (AVG) verplicht gemeenten om een FG aan te stellen. De taak van de FG is om de bestuurders en medewerkers te informeren en adviseren over hun verplichtingen op grond van de AVG, de Uitvoeringswet AVG en andere privacywetgeving, en toe te zien op naleving hiervan. Hierbij heeft de FG een autonome en onafhankelijke functie.  
+
+Hoofdtaken 
+
+Toezien op naleving van wet- en regelgeving en interne richtlijnen tav persoonsgegevens 
+
+Samenwerking met en contactpunt van de AP (Autoriteit Persoonsgegevens). Ten aanzien van de verwerking van persoonsgegevens is de FG voor de AP het eerste aanspreekpunt bij de gemeente voor de toezichthouder. 
+
+Optreden als contactpunt voor betrokkenen. </dl>
 <h1>organisaties</h1>
 <dl>
 <dt>Twentse Kracht</dt>
@@ -170,4 +313,5 @@ Een voorbeeld binnen de gemeente Almelo zijn de Basisregistratie persoonsgegeven
 <li>Stelselpedia gemeente Amsterdam</li>
 <li>Vereniging van Nederlandse Gemeenten (VNG)</li>
 <li>SAP software oplossingen</li>
+<li>Gemeente Delft</li>
 </ul
