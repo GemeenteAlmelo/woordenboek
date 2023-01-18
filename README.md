@@ -277,7 +277,7 @@ Planning-, implementatie- en controleprocessen van datalevering van / naar OO’
 <dd>Een proceseigenaar heeft een globaal zicht op het geheel van een proces. Hij legt de grote lijnen vast, bepaalt de doelstellingen en stuurt het proces. Het hoeft niet dezelfde te zijn als de inhoudelijk verantwoordelijke. Vaak is de proceseigenaar een teammanager, daarom is de proceseigenaar vaak wel geheel of gedeeltelijk ook inhoudelijk verantwoordelijk.</dd>
 </dl>
 <dt>Privacy Officer</dt>
-<dl>Draagt bij aan de privacy-compliance van de gemeente  
+<dd>Draagt bij aan de privacy-compliance van de gemeente  
 
 De PO heeft een uitvoerende rol en is verantwoordelijk voor het ontwikkelen en bewaken van het privacybeleid van de gemeentelijke organisatie en het ondersteunen van de uitvoering. Dit doet zij in nauwe samenwerking met de FG en de CISO. De privacy-officer adviseert over welke organisatorische stappen kan nemen om te kunnen voldoen aan de AVG-regelgeving. De privacy-officer ontwikkelt ook middelen waarbij de medewerkers binnen de organisatie zelf ook kunnen toetsen of zij op projectniveau voldoen aan de privacywetgeving.  
 
@@ -289,7 +289,7 @@ Ontwikkelen en uitvoering geven aan privacybeleid.
 
 Adviseren over privacybeleid 
 
-Ontwikkelen van middelen voor het toetsen van privacy-compliance. </dl>
+Ontwikkelen van middelen voor het toetsen van privacy-compliance. </dd>
 <dt>FG Functionaris gegevensbescherming</dt>
 <dl>Houdt toezicht op de verwerking van persoonsgegevens 
 
